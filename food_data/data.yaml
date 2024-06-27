@@ -1,0 +1,13 @@
+train: C:\Users\Tareq\Desktop\adv_ml\food_data\train\images
+val: C:\Users\Tareq\Desktop\adv_ml\food_data\valid\images
+test: C:\Users\Tareq\Desktop\adv_ml\food_data\test\images
+
+nc: 77
+names: ['Paneer_tikka', 'apple', 'apples', 'apricot', 'aubergine', 'avocado', 'banana', 'bean', 'beetroot', 'bread', 'burger', 'butter naan', 'buttter naan', 'cabbage', 'capsicum', 'carrot', 'cauliflower', 'chai', 'chapati', 'cheese', 'cherry', 'chili', 'chutney', 'coconut', 'corn', 'cucumber', 'cutlet', 'dal_makhani', 'dates', 'dhokla', 'egg', 'fig', 'friedchicken', 'garlic', 'geapes', 'ginger', 'grape', 'greapefurit', 'greenonions', 'greens', 'guva', 'idli', 'jalebi', 'kiwi', 'kulfi', 'ledisfingers', 'lemon', 'mango', 'masala_dosa', 'melon', 'momos', 'mushrooms', 'olive', 'onion', 'orange', 'paani_puri', 'pach', 'pakoda', 'papaya', 'pav_bhaji', 'pear', 'pineapple', 'pizza', 'pomegranate', 'potato', 'radish', 'raspberry', 'rice', 'sambhar', 'samosa', 'srawberry', 'sweet potato', 'tomato', 'tower burger', 'vegatable salad', 'waffle', 'watermelon']
+
+roboflow:
+  workspace: nutriment-eazzk
+  project: -food-detection
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/nutriment-eazzk/-food-detection/dataset/1
