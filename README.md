@@ -104,9 +104,6 @@ The dataset used for training the YOLOv8 model is available at [Roboflow Food De
 - googletrans library for translation
 - API key for CalorieNinjas
 
-### Installation
-- Clone the repository: git clone https://github.com/saifalaasabelaish/adv_ml.git
-
 ### License
 This project is licensed under the MIT License. 
 
