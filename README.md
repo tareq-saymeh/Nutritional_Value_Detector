@@ -90,7 +90,8 @@ Waffle
 Watermelon
 
 ### Model Accuracy
-The YOLOv8 model used in this project has an accuracy of 74%. More details about the model can be found on the Roboflow model page and in the YOLOv8 blog post.
+The YOLOv8 model used in this project has an accuracy of 74%. More details about the model can be found on the [Roboflow model page](https://universe.roboflow.com/nutriment-eazzk/-food-detection/model/1) and in the [YOLOv8 blog post](https://blog.roboflow.com/whats-new-in-yolov8/).
+
 
 ### Dataset
 The dataset used for training the YOLOv8 model is available at [Roboflow Food Detection Dataset](https://universe.roboflow.com/nutriment-eazzk/-food-detection/dataset/1).
@@ -107,7 +108,7 @@ The dataset used for training the YOLOv8 model is available at [Roboflow Food De
 This project is licensed under the MIT License. 
 
 ### Acknowledgements
-Roboflow for providing the dataset and YOLOv8 model.
+[Roboflow](https://roboflow.com/) for providing the dataset and YOLOv8 model.
 The developers and contributors of YOLOv8.
 
 ### Contact
