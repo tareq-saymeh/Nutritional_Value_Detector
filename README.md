@@ -3,11 +3,13 @@
 ### Overview
 The Nutritional Value Detector is a service designed to identify food items from images and provide their nutritional values. This project leverages a YOLOv8 model trained on a dataset containing 77 types of food. By submitting an image with food items, the model can detect and classify the food, and then retrieve the corresponding nutritional information through an external API.
 
+
 ### How It Works
 1) Input: An image containing food items.
 2) Detection: The YOLOv8 model identifies and classifies the food items in the image.
-3) API Request: The classified food item names are sent to an API that returns the nutritional value in JSON format.
-4) Output: The nutritional information for the identified food items is displayed.
+3) Translation: The classified food item names are translated using the googletrans library if necessary.
+4) API Request: The translated food item names are sent to the CalorieNinjas API that returns the nutritional value in JSON format.
+5) Output: The nutritional information for the identified food items is displayed.
 
 ### Food Types
 The dataset used for training the model contains 77 different types of food: 
@@ -99,7 +101,8 @@ The dataset used for training the YOLOv8 model is available at [Roboflow Food De
 ### Requirements
 - Python 3.x
 - YOLOv8
-- API key for the nutritional value service
+- googletrans library for translation
+- API key for CalorieNinjas
 
 ### Installation
 - Clone the repository: git clone https://github.com/saifalaasabelaish/adv_ml.git
