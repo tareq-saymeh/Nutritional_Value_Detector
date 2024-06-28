@@ -92,8 +92,8 @@ Watermelon
 ### Model Accuracy
 The YOLOv8 model used in this project has an accuracy of 74%. More details about the model can be found on the Roboflow model page and in the YOLOv8 blog post.
 
-### [Dataset](https://universe.roboflow.com/nutriment-eazzk/-food-detection/dataset/1)
-The dataset used for training the YOLOv8 model is available at Roboflow Food Detection Dataset.
+### Dataset
+The dataset used for training the YOLOv8 model is available at [Roboflow Food Detection Dataset]((https://universe.roboflow.com/nutriment-eazzk/-food-detection/dataset/1)).
 
 ### Requirements
 - Python 3.x
