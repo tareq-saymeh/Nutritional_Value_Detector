@@ -13,83 +13,83 @@ The Nutritional Value Detector is a service designed to identify food items from
 
 ### Food Types
 The dataset used for training the model contains 77 different types of food: 
-Paneer_tikka
-Apple
-Apples
-Apricot
-Aubergine
-Avocado
-Banana
-Bean
-Beetroot
-Bread
-Burger
-Butter Naan
-Buttter Naan
-Cabbage
-Capsicum
-Carrot
-Cauliflower
-Chai
-Chapati
-Cheese
-Cherry
-Chili
-Chutney
-Coconut
-Corn
-Cucumber
-Cutlet
-Dal_makhani
-Dates
-Dhokla
-Egg
-Fig
-Fried Chicken
-Garlic
-Grapes
-Ginger
-Grape
-Greapefurit
-Green Onions
-Greens
-Guava
-Idli
-Jalebi
-Kiwi
-Kulfi
-Ladies Fingers
-Lemon
-Mango
-Masala Dosa
-Melon
-Momos
-Mushrooms
-Olive
-Onion
-Orange
-Paani Puri
-Peach
-Pakoda
-Papaya
-Pav Bhaji
-Pear
-Pineapple
-Pizza
-Pomegranate
-Potato
-Radish
-Raspberry
-Rice
-Sambhar
-Samosa
-Strawberry
-Sweet Potato
-Tomato
-Tower Burger
-Vegetable Salad
-Waffle
-Watermelon
+- Paneer_tikka
+- Apple
+- Apples
+- Apricot
+- Aubergine
+- Avocado
+- Banana
+- Bean
+- Beetroot
+- Bread
+- Burger
+- Butter Naan
+- Buttter Naan
+- Cabbage
+- Capsicum
+- Carrot
+- Cauliflower
+- Chai
+- Chapati
+- Cheese
+- Cherry
+- Chili
+- Chutney
+- Coconut
+- Corn
+- Cucumber
+- Cutlet
+- Dal_makhani
+-  Dates
+- Dhokla
+- Egg
+- Fig
+- Fried Chicken
+- Garlic
+- Grapes
+- Ginger
+- Grape
+- Greapefurit
+- Green Onions
+- Greens
+- Guava
+- Idli
+- Jalebi
+- Kiwi
+- Kulfi
+- Ladies Fingers
+- Lemon
+- Mango
+- Masala Dosa
+- Melon
+- Momos
+- Mushrooms
+- Olive
+- Onion
+- Orange
+- Paani Puri
+- Peach
+- Pakoda
+- Papaya
+- Pav Bhaji
+- Pear
+- Pineapple
+- Pizza
+- Pomegranate
+- Potato
+- Radish
+- Raspberry
+- Rice
+- Sambhar
+- Samosa
+- Strawberry
+- Sweet Potato
+- Tomato
+- Tower Burger
+- Vegetable Salad
+- Waffle
+- Watermelon
 
 ### Model Accuracy
 The YOLOv8 model used in this project has an accuracy of 74%. More details about the model can be found on the [Roboflow model page](https://universe.roboflow.com/nutriment-eazzk/-food-detection/model/1) and in the [YOLOv8 blog post](https://blog.roboflow.com/whats-new-in-yolov8/).
